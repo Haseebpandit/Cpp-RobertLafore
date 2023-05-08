@@ -23,7 +23,4 @@ int main(){
     cout << "Area is " << circarea(radius) << endl;
     return 0;
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
+
